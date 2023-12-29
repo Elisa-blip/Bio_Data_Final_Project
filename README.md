@@ -11,7 +11,6 @@
 </p>
 
 ### Project Context
-
 The project entails building a sequence model starting from assigned identifiers (listed below) in order to analyze the entire family of proteins that share similar domains. Not only that, but functional aspects of the family will be taken into consideration as the project is to aim the family's main function.
 - A representative Domain Sequence
 - Corresponding Pfam Identifier
@@ -19,12 +18,10 @@ The project entails building a sequence model starting from assigned identifiers
 
 ### Repository Overview and Files
 
-
 ```
 ↳ Data: Folder containing all data.
-
-
+↳ Figures: Folder containing all figures related to our model.
 ↳ Final_project_code.ipynb: A python file containing the detailed model script.
-      
+
 ```
 
