@@ -1,0 +1,10 @@
+,name,regex,matches,Z-score
+ELME000146,PCSK cleavage site,[RK].[AILMFV][LTKF].,17,9.555271523198517
+ELME000239,USP7 binding motif,[PA][^P][^FYWIL]S[^P],11,6.095347855624991
+ELME000394,USP7 binding motif,K...K,9,4.942039966433816
+ELME000155,SH3 domain ligands,...[PV]..P,6,3.2120781326470547
+ELME000063,Casein kinase 1 (CK1) Phosphorylation site,S..([ST])...,12,6.6720018002205785
+ELME000070,N-glycosylation site,.(N)[^P][ST]..,9,4.942039966433816
+ELME000202,PIKK phosphorylation site,...([ST])Q..,6,3.2120781326470547
+ELME000062,PKA Phosphorylation site,.R.([ST])[^P]..,9,4.942039966433816
+ELME000271,NLS classical Nuclear Localization Signals,"(([PKR].{0,1}[^DE])|([PKR]))((K[RK])|(RK))(([^DE][KR])|([KR][^DE]))[^DE]",9,4.942039966433816
