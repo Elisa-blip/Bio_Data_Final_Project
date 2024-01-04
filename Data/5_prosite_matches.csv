@@ -1,0 +1,7 @@
+,ID,descr,regex,matches
+PS00001,ASN_GLYCOSYLATION,N-glycosylation site,N-{P}-[ST]-{P},10
+PS00005,PKC_PHOSPHO_SITE,Protein kinase C phosphorylation site,[ST]-x-[RK],14
+PS00006,CK2_PHOSPHO_SITE,Casein kinase II phosphorylation site,[ST]-x(2)-[DE],6
+PS00008,MYRISTYL,N-myristoylation site,G-{EDRKHPFYW}-x(2)-[STAGCN]-{P},2
+PS00009,AMIDATION,Amidation site,x-G-[RK]-[RK],2
+PS00016,RGD,Cell attachment sequence,R-G-D,1

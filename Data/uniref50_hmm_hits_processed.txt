@@ -1,0 +1,51 @@
+E-value  score  bias    E-value  score  bias    exp  N  Sequence              Description
+8.2e-100  337.8   0.0    1.3e-99  337.2   0.0    1.3  1  sp|P07228|ITB1_CHICK   Integrin beta-1 OS=Gallus gallus OX=90
+1.8e-99  336.7   0.0    3.6e-99  335.7   0.0    1.6  1  sp|P11584|ITBX_DROME   Integrin beta-PS OS=Drosophila melanog
+1.5e-98  333.7   0.0    2.6e-98  332.9   0.0    1.4  1  sp|P05556|ITB1_HUMAN   Integrin beta-1 OS=Homo sapiens OX=960
+2.2e-98  333.1   0.0    3.4e-98  332.5   0.0    1.3  1  sp|B0FYY4|ITB1_SHEEP   Integrin beta-1 OS=Ovis aries OX=9940 
+  4e-98  332.3   0.0    6.2e-98  331.7   0.0    1.3  1  sp|P09055|ITB1_MOUSE   Integrin beta-1 OS=Mus musculus OX=100
+  4e-98  332.3   0.0    6.2e-98  331.7   0.0    1.3  1  sp|P49134|ITB1_RAT     Integrin beta-1 OS=Rattus norvegicus O
+4.1e-98  332.3   0.0    6.4e-98  331.6   0.0    1.3  1  sp|P53712|ITB1_BOVIN   Integrin beta-1 OS=Bos taurus OX=9913 
+  5e-98  332.0   0.0    7.7e-98  331.3   0.0    1.3  1  sp|A5Z1X6|ITB1_CAMBA   Integrin beta-1 OS=Camelus bactrianus 
+7.1e-98  331.5   0.0    1.1e-97  330.8   0.0    1.3  1  sp|P53713|ITB1_FELCA   Integrin beta-1 OS=Felis catus OX=9685
+7.2e-98  331.5   0.0    1.2e-97  330.7   0.0    1.4  1  sp|P12606|ITB1A_XENLA  Integrin beta-1-A OS=Xenopus laevis OX
+9.7e-98  331.0   0.0    1.5e-97  330.4   0.0    1.3  1  sp|Q9GLP0|ITB1_PIG     Integrin beta-1 OS=Sus scrofa OX=9823 
+2.3e-97  329.8   0.0      4e-97  329.0   0.0    1.4  1  sp|P12607|ITB1B_XENLA  Integrin beta-1-B OS=Xenopus laevis OX
+1.3e-96  327.4   0.0    2.1e-96  326.7   0.0    1.4  1  sp|P80747|ITB5_BOVIN   Integrin beta-5 OS=Bos taurus OX=9913 
+1.4e-96  327.2   0.0    2.2e-96  326.6   0.0    1.3  1  sp|P18084|ITB5_HUMAN   Integrin beta-5 OS=Homo sapiens OX=960
+1.5e-96  327.2   0.0    2.7e-96  326.3   0.0    1.4  1  sp|O70309|ITB5_MOUSE   Integrin beta-5 OS=Mus musculus OX=100
+2.1e-96  326.6   0.7    2.9e-96  326.2   0.0    1.6  1  sp|Q9Z0T9|ITB6_MOUSE   Integrin beta-6 OS=Mus musculus OX=100
+2.3e-96  326.5   0.0      4e-96  325.8   0.0    1.4  1  sp|Q1RPR6|ITB6_PIG     Integrin beta-6 OS=Sus scrofa OX=9823 
+2.6e-96  326.4   0.0    4.9e-96  325.5   0.0    1.5  1  sp|P18563|ITB6_CAVPO   Integrin beta-6 OS=Cavia porcellus OX=
+3.1e-96  326.1   0.4    5.4e-96  325.3   0.0    1.6  1  sp|Q6AYF4|ITB6_RAT     Integrin beta-6 OS=Rattus norvegicus O
+3.7e-96  325.9   0.0    6.2e-96  325.1   0.0    1.4  1  sp|P05106|ITB3_HUMAN   Integrin beta-3 OS=Homo sapiens OX=960
+4.7e-96  325.5   0.0    7.6e-96  324.8   0.0    1.3  1  sp|Q5RCA9|ITB1_PONAB   Integrin beta-1 OS=Pongo abelii OX=960
+  6e-96  325.2   0.0    1.2e-95  324.2   0.0    1.5  1  sp|Q8SQB8|ITB6_BOVIN   Integrin beta-6 OS=Bos taurus OX=9913 
+7.3e-96  324.9   0.0    1.2e-95  324.2   0.0    1.4  1  sp|P18564|ITB6_HUMAN   Integrin beta-6 OS=Homo sapiens OX=960
+1.2e-95  324.2   0.0    1.2e-95  324.2   0.0    1.7  1  sp|Q863C4|ITB6_SHEEP   Integrin beta-6 OS=Ovis aries OX=9940 
+7.7e-95  321.6   0.0    1.5e-94  320.6   0.0    1.5  1  sp|O54890|ITB3_MOUSE   Integrin beta-3 OS=Mus musculus OX=100
+5.1e-94  318.9   0.0    9.6e-94  318.0   0.0    1.5  1  sp|Q8R2H2|ITB3_RAT     Integrin beta-3 OS=Rattus norvegicus O
+1.5e-93  317.4   0.0    3.3e-93  316.2   0.0    1.6  1  sp|P26010|ITB7_HUMAN   Integrin beta-7 OS=Homo sapiens OX=960
+4.9e-93  315.7   0.0      9e-93  314.8   0.0    1.5  1  sp|P26011|ITB7_MOUSE   Integrin beta-7 OS=Mus musculus OX=100
+3.1e-92  313.0   0.0    6.4e-92  312.0   0.0    1.5  1  sp|Q27874|PAT3_CAEEL   Integrin beta pat-3 OS=Caenorhabditis 
+  8e-92  311.7   0.0    1.9e-91  310.5   0.0    1.6  1  sp|P11835|ITB2_MOUSE   Integrin beta-2 OS=Mus musculus OX=100
+1.4e-90  307.6   0.0    2.1e-90  307.0   0.0    1.3  1  sp|P05107|ITB2_HUMAN   Integrin beta-2 OS=Homo sapiens OX=960
+1.5e-90  307.6   0.0      3e-90  306.6   0.0    1.5  1  sp|P53714|ITB2_PIG     Integrin beta-2 OS=Sus scrofa OX=9823 
+4.2e-90  306.1   0.0    6.3e-90  305.5   0.0    1.3  1  sp|P32592|ITB2_BOVIN   Integrin beta-2 OS=Bos taurus OX=9913 
+5.2e-90  305.8   0.0    7.9e-90  305.2   0.0    1.3  1  sp|Q5VI41|ITB2_CAPHI   Integrin beta-2 OS=Capra hircus OX=992
+5.9e-90  305.6   0.0    9.3e-90  304.9   0.0    1.3  1  sp|Q2VJ42|ITB2_OVICA   Integrin beta-2 OS=Ovis canadensis OX=
+  6e-90  305.6   0.0    9.3e-90  304.9   0.0    1.3  1  sp|Q6ECI6|ITB2_SHEEP   Integrin beta-2 OS=Ovis aries OX=9940 
+1.9e-77  264.8   1.4    2.1e-77  264.6   0.0    1.9  1  sp|P26012|ITB8_HUMAN   Integrin beta-8 OS=Homo sapiens OX=960
+5.4e-77  263.2   0.0      1e-76  262.4   0.0    1.5  1  sp|P26013|ITB8_RABIT   Integrin beta-8 OS=Oryctolagus cunicul
+  6e-77  263.1   0.0    1.3e-76  261.9   0.0    1.6  1  sp|Q0VBD0|ITB8_MOUSE   Integrin beta-8 OS=Mus musculus OX=100
+  2e-75  258.1   0.0    3.3e-75  257.4   0.0    1.4  1  sp|Q07441|ITB5_PAPCY   Integrin beta-5 (Fragment) OS=Papio cy
+1.1e-73  252.5   0.0    2.3e-73  251.4   0.0    1.6  1  sp|Q27591|ITBN_DROME   Integrin beta-nu OS=Drosophila melanog
+7.4e-70  239.9   0.0    1.6e-69  238.8   0.0    1.6  1  sp|A2A863|ITB4_MOUSE   Integrin beta-4 OS=Mus musculus OX=100
+  1e-69  239.4   0.0    1.7e-69  238.7   0.0    1.3  1  sp|Q64632|ITB4_RAT     Integrin beta-4 OS=Rattus norvegicus O
+1.4e-69  239.0   0.0    2.3e-69  238.3   0.0    1.4  1  sp|P16144|ITB4_HUMAN   Integrin beta-4 OS=Homo sapiens OX=960
+2.4e-44  156.5   0.0    7.4e-24   89.6   0.0    2.3  2  sp|Q3UV74|ITB2L_MOUSE  Integrin beta-2-like protein OS=Mus mu
+1.1e-24   92.3   0.0    1.2e-24   92.2   0.0    1.0  1  sp|Q09062|ITB2_XENLA   Integrin beta-2 (Fragment) OS=Xenopus 
+  0.008   20.9   0.8         35    9.0   0.0    3.4  3  sp|Q6B9X6|VWKA_DICDI   Alpha-protein kinase vwkA OS=Dictyoste
+
+
+
