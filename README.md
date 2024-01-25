@@ -21,6 +21,7 @@ The project entails building a sequence model starting from assigned identifiers
 ```
 ↳ Data: Folder containing all data.
 ↳ Figures: Folder containing all figures related to our model.
+↳ BD Report: Document summarizing the conclusive findings of our project model.
 ↳ Final_project_code.ipynb: A python file containing the detailed model script.
 
 ```
