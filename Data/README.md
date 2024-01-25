@@ -6,6 +6,6 @@ We have the raw files for the model hits, a processed version of the hits in csv
 ## Part 3
 We have a csv with lineages of each member of the family, for each rank shared by all of them, plus a list of the taxa IDs
 ## Part 4
-We have csv files for the enriched terms, with GO id, name, ontology, frequencies in the family and the rest of swissprot, plus raw and adjusted p-values for Fisher's two-tailed exact test. 4_branches.csv contains the top level enriched terms, defined as enriched terms that aren't children of any other one.
+We have csv files for the enriched terms, with GO id, name, ontology, frequencies in the family and the rest of swissprot, plus raw and adjusted p-values for Fisher's two-tailed exact test. 4_branches.csv contains the top level enriched terms, defined as enriched terms that aren't children of any other ones.
 ## Part 5
-We have csv files for the elm and prosite matches
+We have csv files for all elm classes, significant elm classes, a csv file containing info on all the prosite patterns, and one with their matches.
